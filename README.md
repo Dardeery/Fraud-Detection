@@ -28,6 +28,7 @@ Identify unusually large number of waived fee by branch or by employee
   * clients from a specific nationalities, specific addresses. 
   
 ## Resources: 
+
 ### learn: 
 https://www.datacamp.com/courses/fraud-detection-in-python
 https://www.datascience.com/blog/fraud-detection-with-tensorflow
@@ -36,6 +37,7 @@ https://towardsdatascience.com/detecting-financial-fraud-using-machine-learning-
     
 
 ### Do it yourself
+
 https://www.kdnuggets.com/2018/08/introduction-fraud-detection-systems.html
 https://www.kaggle.com/renjithmadhavan/credit-card-fraud-detection-using-python
 https://www.researchgate.net/project/Fraud-detection-with-machine-learning
