@@ -18,10 +18,10 @@ Fraud detection in financial service is a critical activity that can span a seri
 
 * Cash Transaction Monitoring:
 Identify cash transactions just below regulatory reporting thresholds
-Identify a series of cash disbursements by customer number that together exceed regulatory reporting threshold Identify statistically unusual numbers of cash transfers by customer and bank account 
+Identify a series of cash disbursements by customer number that together exceed regulatory reporting threshold Identify statistically unusual numbers of cash transfers by customer and bank account.
 
 * Billing:
-Identify unusually large number of waived fee by branch or by employee
+Identify unusually large number of waived fee by branch or by employee.
 
 * Check unusual activity: 
   * personal data changes directly after finishing legitmation. 
@@ -37,7 +37,6 @@ https://towardsdatascience.com/detecting-financial-fraud-using-machine-learning-
     
 
 ### Do it yourself
-
 https://www.kdnuggets.com/2018/08/introduction-fraud-detection-systems.html
 https://www.kaggle.com/renjithmadhavan/credit-card-fraud-detection-using-python
 https://www.researchgate.net/project/Fraud-detection-with-machine-learning
